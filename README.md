@@ -11,7 +11,7 @@
 - I'm a Machine learning engineer focused on machine learning system, paralleled computing, distributed training
 - Myblog: https://fazzie-key.cool/
 - How to reach me:1240419984@qq.com.
-- The open source I have participated in
+- The open source project I have participated in
   - [ColossalAI: A Unified Deep Learning System for Large-Scale Parallel Training)](https://github.com/hpcaitech/ColossalAI)
 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazziekey&&exclude_repo=Fazziekey.github.io&theme=tokyonight" />
