@@ -21,5 +21,4 @@
 
 
 
-
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fazziekey&&exclude_repo=Fazziekey.github.io&theme=tokyonight" />
