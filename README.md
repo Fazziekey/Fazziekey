@@ -21,4 +21,4 @@
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fazziekey&theme=tokyonight" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Fazziekey&theme=tokyonight" /> -->
