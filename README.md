@@ -8,7 +8,7 @@
 
 ### Here is Fazzie 👋
 
-- I'm a Machine learning engineer focused on machine learning system, paralleled computing, distributed training
+- I'm a machine learning engineer focused on machine learning system, large model at Bytedance AML
 - Myblog: https://fazzie-key.cool/
 - How to reach me:1240419984@qq.com.
 - The open source project I have participated in
