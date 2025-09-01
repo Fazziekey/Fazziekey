@@ -8,14 +8,15 @@
 
 ### Here is Fazzie 👋
 
-- I'm a machine learning engineer focused on machine learning systems, large model at Bytedance Seed
+- I'm a research engineer focused on machine learning systems, large language model at Bytedance Seed
 - Myblog: https://fazzie-key.cool/
 - How to reach me:1240419984@qq.com.
-- The open source project I have participated in
+- Project I led:
+  - [VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo](https://github.com/ByteDance-Seed/VeOmni)
+  - [Seed-OSS Open-Source Models](https://github.com/ByteDance-Seed/seed-oss)
+- Other open source project I have participated in
  
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazziekey&&exclude_repo=Fazziekey.github.io&theme=tokyonight" />
-  
-  - [VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo](https://github.com/ByteDance-Seed/VeOmni)
   - [ColossalAI: A Unified Deep Learning System for Large-Scale Parallel Training)](https://github.com/hpcaitech/ColossalAI)
   - [Fastfold: Optimizing AlphaFold Training and Inference on GPU Clusters](https://github.com/hpcaitech/FastFold)
   - [Mindspore:  a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios](https://github.com/mindspore-ai/mindspore)
