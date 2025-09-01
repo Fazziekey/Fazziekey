@@ -15,7 +15,7 @@
  
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazziekey&&exclude_repo=Fazziekey.github.io&theme=tokyonight" />
   
-  - [VeOmni: Scaling any Modality Model Training to any Accelerators with PyTorch native Training Framework](https://github.com/ByteDance-Seed/VeOmni)
+  - [VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo](https://github.com/ByteDance-Seed/VeOmni)
   - [ColossalAI: A Unified Deep Learning System for Large-Scale Parallel Training)](https://github.com/hpcaitech/ColossalAI)
   - [Fastfold: Optimizing AlphaFold Training and Inference on GPU Clusters](https://github.com/hpcaitech/FastFold)
   - [Mindspore:  a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios](https://github.com/mindspore-ai/mindspore)
