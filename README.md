@@ -15,7 +15,6 @@
   - [VeOmni: Scaling Any Modality Model Training with Model-Centric Distributed Recipe Zoo](https://github.com/ByteDance-Seed/VeOmni)
   - [Seed-OSS Open-Source Models](https://github.com/ByteDance-Seed/seed-oss)
 - Other open source project I have participated in
- 
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazziekey&&exclude_repo=Fazziekey.github.io&theme=tokyonight" />
   - [ColossalAI: A Unified Deep Learning System for Large-Scale Parallel Training)](https://github.com/hpcaitech/ColossalAI)
   - [Fastfold: Optimizing AlphaFold Training and Inference on GPU Clusters](https://github.com/hpcaitech/FastFold)
